@@ -1,0 +1,6 @@
+{% for account in site.github_accounts %}
+  <a href="https://github.com/{{ account }}">
+    <span class="icon icon--github">{% include icon-github.svg %}</span>
+    <span class="username">{{ account }}</span>
+  </a>
+{% endfor %}
