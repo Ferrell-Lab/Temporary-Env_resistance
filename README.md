@@ -2,7 +2,7 @@ This page contains the scripts used in the article 'SUBMISSION (this is just a p
 
 ## Scripts
 
-- [IC~50~ Analysis](./IC50AnalysisFunction.html) - The analysis workflow used for the IC~50~ fits.
+- [IC<sub>50</sub> Analysis](./IC50AnalysisFunction.html) - The analysis workflow used for the IC<sub>50</sub> fits.
 - [example2.html](./example2.html) - Description of example2.
 - [example3.html](./example3.html) - Description of example3.
 - [example3.html](./example3.html) - Description of example3.
