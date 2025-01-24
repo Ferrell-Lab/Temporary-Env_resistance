@@ -3,10 +3,7 @@ author:
   email: your-email@domain.com
 
 
-theme: minima
-  remote_theme: jekyll/minima
-
-
+remote_theme: jekyll/minima
 
 minima:
   social_links:
