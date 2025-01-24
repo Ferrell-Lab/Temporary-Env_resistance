@@ -9,5 +9,5 @@ This page contains the scripts used in the article 'SUBMISSION (this is just a p
 
 ## SARAR 
 
-- [SARAR description](https://ferrell-lab.github.io/Temporary-Env_resistance/SARAR.html).
+- [SARAR description](https://ferrell-lab.github.io/Temporary-Env_resistance/SARAR.html)
 - [SARAR package repository](https://github.com/Ferrell-Lab/Temporary-Env_resistance/tree/69a7f6edeab5f817d9ea76d6f9a9adbbf98ca5c6/SARAR_package)
