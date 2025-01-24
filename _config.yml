@@ -1,10 +1,8 @@
-author:
-  name: Abraheem Khouqeer
-  email: Abraheem.khouqeer@vanderbilt.edu
+author: Abraheem Khouqeer
+email: Abraheem.khouqeer@vanderbilt.edu
 
 
-remote_theme: jekyll/minima
+theme: minima
 
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/Ferrell-Lab/" }
+github_username:  Ferrell-Lab
+github_username:  Abekh
