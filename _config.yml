@@ -1,8 +1,11 @@
-theme: minima
-
 author:
   name: Abraheem Khouqeer
-  email: "abraheem.khouqeer@vanderbilt.edu"
+  email: abraheem.khouqeer@vanderbilt.edu
+
+
+theme: minima
+
+
 
 minima:
   social_links:
