@@ -1,0 +1,11 @@
+Package: SARAR
+Type: Package
+Title: SARA with Earth Mover's Distance
+Version: 0.1.0
+Author: Abraheem 'Abe' Khouqeer [aut, cre]
+Maintainer: Abraheem 'Abe' Khouqeer <abraheem.khouqeer@vanderbilt.edu>
+Description: Implements the Statistical Analysis of Perturbation Response (SARA) method using Earth Mover's Distance (EMD).
+License: MIT
+Imports: stats, utils
+Encoding: UTF-8
+RoxygenNote: 7.1.1
