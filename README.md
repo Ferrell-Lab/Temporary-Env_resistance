@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/921502836.svg)](https://doi.org/10.5281/zenodo.14741394)
 
 
-This page contains the scripts used in the article 'SUBMISSION (this is just a placeholder)'. The outline and description of the scripts are outlined in the respective scripts. The links in the article link directly to the repsective Scripts below. 
+This page contains the scripts used in the article 'SUBMISSION' (placeholder title). The scripts are outlined and described in their respective sections.
 
 ## Scripts
 
