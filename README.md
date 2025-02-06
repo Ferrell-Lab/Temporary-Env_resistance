@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/921502836.svg)](https://doi.org/10.5281/zenodo.14741394)
 
 
-This page contains the scripts used in the article "IFNγ Signaling Drives Resistance to FLT3 Inhibition in Acute Myeloid Leukemia (khouqeer2025)". The scripts are outlined and described in their respective sections.
+This page contains the scripts used in the article "IFNγ Signaling Drives Resistance to FLT3 Inhibition in Acute Myeloid Leukemia (Khouqeer2025)". The scripts are outlined and described in their respective sections.
 
 ## Scripts
 
